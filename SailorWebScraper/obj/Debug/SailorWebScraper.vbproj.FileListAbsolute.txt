@@ -1,0 +1,14 @@
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\bin\Debug\SailorWebScraper.exe.config
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\bin\Debug\SailorWebScraper.exe
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\bin\Debug\SailorWebScraper.pdb
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\bin\Debug\SailorWebScraper.xml
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.vbprojResolveAssemblyReference.cache
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.Resources.resources
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.vbproj.GenerateResource.Cache
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.exe
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.xml
+c:\users\sagapiou.almitankers\documents\visual studio 2015\Projects\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.pdb
+V:\IT\Software Development\SailorWebScraper\SailorWebScraper\bin\Debug\SailorWebScraper.exe.config
+V:\IT\Software Development\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.exe
+V:\IT\Software Development\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.xml
+V:\IT\Software Development\SailorWebScraper\SailorWebScraper\obj\Debug\SailorWebScraper.pdb
